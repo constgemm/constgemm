@@ -20,4 +20,4 @@ about me: I am an engineer with several active ideas ready to go. My background 
 more info: 
 - [ETH Student Project House](https://sph.ethz.ch/) is the accellerator I am working from.
 - [Aid Pioneers](https://aidpioneers.com/) is an NGO I work with as a project manager.
-- [Wanake, NZ](https://www.lakewanaka.co.nz/) is the place I would consider moving to one day.
+- [Wanaka, NZ](https://www.lakewanaka.co.nz/) is the place I would consider moving to one day.
