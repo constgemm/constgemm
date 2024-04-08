@@ -16,8 +16,3 @@ Here are some ideas to get you started:
 -->
 
 about me: I am an engineer with several active ideas ready to go. My background is in robotics with a special focus on medical applications. Currently I am working on new ideas freshly out of university aiming to impact society.
-
-more info: 
-- [ETH Student Project House](https://sph.ethz.ch/) is the accellerator I am working from.
-- [Aid Pioneers](https://aidpioneers.com/) is an NGO I work with as a project manager.
-- [Wanaka, NZ](https://www.lakewanaka.co.nz/) is the place I would consider moving to one day.
