@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-about me: I am an engineer with several active ideas ready to go. My background is in robotics with a special focus on medical applications. Currently I am working on new ideas freshly out of university aiming to impact society.
+👋 Hi there! I'm Constantin Gemmingen, a recent graduate from ETH Zürich and Harvard University with a Master's degree in Mechanical Engineering. My expertise lies in hardware development, system design, and machine learning, with hands-on experience in diagnostic devices, robotics, and agricultural machinery.
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=constgemm&show_icons=true&theme=transparent)
+Passionate about leveraging my skills to drive innovation in medical technology, I thrive on tackling complex challenges and making a positive impact on healthcare and society.
+
+Explore my projects and let's collaborate to create something amazing!
+
+🔧 Technical Skills: Python, TensorFlow, C/C++, MATLAB, Git, Arduino, Raspberry Pi, CAD, ROS, Linux
+🌍 Languages: German (native), English (fluent), French (fluent)
+💡 Interests: Piano, organ, and guitar | Scuba diving and skiing | Forestry | Cooking
