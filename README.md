@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 
 Passionate about leveraging my skills to drive innovation in medical technology, I thrive on tackling complex challenges and making a positive impact on healthcare and society.
 
+
 Explore my projects and let's collaborate to create something amazing!
 
-🔧 Technical Skills: Python, TensorFlow, C/C++, MATLAB, Git, Arduino, Raspberry Pi, CAD, ROS, Linux
-🌍 Languages: German (native), English (fluent), French (fluent)
-💡 Interests: Piano, organ, and guitar | Scuba diving and skiing | Forestry | Cooking
+
+📫 You can reach me on LinkedIn anytime.
+
