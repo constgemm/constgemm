@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 about me: I am an engineer with several active ideas ready to go. My background is in robotics with a special focus on medical applications. Currently I am working on new ideas freshly out of university aiming to impact society.
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
